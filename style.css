@@ -48,7 +48,7 @@ main {
     color: #EEEEEE;
 }
 .right form {
-    padding: 20px;
+    padding: 30px;
     display: flex;
     border-radius: 5px;
     align-items: center;
@@ -138,6 +138,9 @@ main {
     .right .blue-btn span {
         display: block;
         margin-top: 2px;
+    }
+    .right form {
+        padding: 25px;
     }
     .right form div {
         width: 290px;
